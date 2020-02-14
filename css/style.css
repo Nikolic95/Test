@@ -1,0 +1,34 @@
+body {
+	background-color: #CCFF99;
+	width: 300px;
+	margin: auto;
+}
+
+#wrap {
+	width: 300px;
+	margin: auto;
+}
+
+#search {
+	background-color: #00FFFF;
+	padding: 20px;
+	marrgin-bottom: 15px;
+	border-radius: 20px;
+	border: 2px solid #655877;
+}
+
+
+#message {
+	background-color: #FFE680;
+	text-align: center;
+	border-radius: 20px;
+	border: 2px solid #655877;
+}
+
+#result {
+	padding: 10px;
+	background-color: rgba(255, 251, 45, 0.4);
+	marrgin-bottom: 2px;
+	border: 1px solid #696969;	
+	border-radius: 20px, 0px;
+}
